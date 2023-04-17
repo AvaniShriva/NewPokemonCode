@@ -1,0 +1,407 @@
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.exe
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.deps.json
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.runtimeconfig.json
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.pdb
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfo.cs
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\scopedcss\bundle\PokemonApp.styles.css
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CopyComplete
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\refint\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.pdb
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.genruntimeconfig.cache
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net6.0\ref\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL-Parser.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.DataLoader.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.NewtonsoftJson.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Core.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Ui.Altair.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.SystemReactive.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.SystemTextJson.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.Core.dll
+C:\Users\user\Downloads\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.Linq.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.exe
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.deps.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.runtimeconfig.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.pdb
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL-Parser.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.DataLoader.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.NewtonsoftJson.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Core.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Ui.Altair.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.SystemReactive.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.SystemTextJson.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.Core.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.Linq.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfo.cs
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonApp.props
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonApp.props
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PokemonApp.props
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\scopedcss\bundle\PokemonApp.styles.css
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CopyComplete
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\refint\PokemonApp.dll
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.pdb
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.genruntimeconfig.cache
+C:\Users\User\Downloads\PokemonApp (1)\PokemonApp\PokemonApp\obj\Debug\net6.0\ref\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.exe
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.deps.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.runtimeconfig.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\PokemonApp.pdb
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL-Parser.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.DataLoader.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.NewtonsoftJson.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Core.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Ui.Altair.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.SystemReactive.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\GraphQL.SystemTextJson.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.Core.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.Linq.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfo.cs
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonApp.props
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonApp.props
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PokemonApp.props
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\scopedcss\bundle\PokemonApp.styles.css
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CopyComplete
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\refint\PokemonApp.dll
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.pdb
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\PokemonApp.genruntimeconfig.cache
+C:\Users\user\Downloads\PokemonApp-1\PokemonApp\PokemonApp\obj\Debug\net6.0\ref\PokemonApp.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\PokemonApp.exe
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\PokemonApp.deps.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\PokemonApp.runtimeconfig.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\PokemonApp.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\PokemonApp.pdb
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL-Parser.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.DataLoader.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.NewtonsoftJson.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Core.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.Server.Ui.Altair.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.SystemReactive.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\GraphQL.SystemTextJson.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Reactive.Core.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Reactive.Linq.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.AssemblyInfo.cs
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonApp.props
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonApp.props
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PokemonApp.props
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\scopedcss\bundle\PokemonApp.styles.css
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.csproj.CopyComplete
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\refint\PokemonApp.dll
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.pdb
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\PokemonApp.genruntimeconfig.cache
+C:\Users\user\Desktop\NewPokemon\PokemonApp_Backend\PokemonApp\obj\Debug\net6.0\ref\PokemonApp.dll
